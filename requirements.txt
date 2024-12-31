@@ -1,0 +1,4 @@
+wordcloud~=1.9.3
+pyqt5~=5.15.10
+matplotlib~=3.9.2
+beautifulsoup4~=4.12.3
